@@ -1,0 +1,21 @@
+Rovers
+1. Rover Charlie (Rover 1)
+  Battery Power: 100 kWh
+  Battery Efficiency: 50 kWh per 100 km
+  Solar Capacity: 5 kW
+  Average Velocity: 5 km/h
+  Charlie is the most energy-efficient rover, able to travel longer distances on a single charge due to its higher battery efficiency. It also has a moderate solar capacity for recharging.
+
+2. Rover Alpha (Rover 2)
+  Battery Power: 130 kWh
+  Battery Efficiency: 40 kWh per 100 km
+  Solar Capacity: 8 kW
+  Average Velocity: 4 km/h
+  Alpha has the highest battery power, allowing it to carry more energy for longer trips. However, its battery efficiency is slightly lower than Charlie's, meaning it uses more energy per 100 km. It also has a strong solar capacity for recharging.
+
+3. Rover November (Rover 3)
+  Battery Power: 80 kWh
+  Battery Efficiency: 30 kWh per 100 km
+  Solar Capacity: 4 kW
+  Average Velocity: 6 km/h
+  November is the fastest rover with the highest average velocity. However, its battery power and efficiency are lower, meaning it will need to recharge more often compared to the other two rovers. Its solar capacity is also the smallest.
